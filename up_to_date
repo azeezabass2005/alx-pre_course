@@ -1,1 +1,1 @@
-git push "repository url"
+git pull "repository url"
